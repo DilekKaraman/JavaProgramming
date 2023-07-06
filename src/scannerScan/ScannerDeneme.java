@@ -12,6 +12,8 @@ public class ScannerDeneme {
         int num2=input.nextInt();
         System.out.println("Enter word");
         String word=input.next();
+        System.out.println("Enter 2. word");
+        String word2=input.next();
         input.nextLine();//Sonrasinda cumle yazabilmek icin enter demesi icin oncesinde de bunu yaziyoruz.
 
         System.out.println("Enter sentences");
